@@ -51,7 +51,8 @@ and success criteria  of our project.
 ![image](https://github.com/user-attachments/assets/b6bfb5d4-b911-4ca3-a19b-286fe5311b78)
 
 
-#### Interactive Dashboard
+#### Interactive dashboard
 
 ---
-![image](https://drive.google.com/file/d/1H-ntYAnwhQp4jpElw5QmCWA7IFBaPjft/view?usp=drive_link)
+<img src="https://github.com/chandu7508/AtliQ-Sales-Insights-PowerBI/blob/main/Recording.gif" width="1020" class="center">
+
