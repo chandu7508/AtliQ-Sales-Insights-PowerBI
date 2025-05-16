@@ -1,4 +1,4 @@
-# AtliQ Sales Insights PowerBi Dashboard
+# AtliQ Sales Insights PowerBI Dashboard
 
 This is a project I replicated from Codebasics PowerBi Youtube playlist. You can find the link of the playlist below.
 
